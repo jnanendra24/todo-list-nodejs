@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    height: 100vh;
+    gap: 10vw;
+    margin: auto;
+    align-items: center;
+}
+.newtask{
+    width: 40vw;
+}
+td{
+    word-wrap: break-word;
+}
+.delete-button{
+    background-color: blue;
+    border-radius: 20px;
+}
